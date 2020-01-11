@@ -1,0 +1,15 @@
+.striker{
+    text-decoration:line-through;
+}
+
+#new_href {
+
+    color:white;
+    font-size: large;
+    text-decoration: none;
+
+    
+}
+a:hover#new_href{
+    color: red;
+}
